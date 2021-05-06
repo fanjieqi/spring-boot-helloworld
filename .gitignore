@@ -480,3 +480,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+.classpath
+.project
+.vscode/settings.json
